@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me: https://www.linkedin.com/in/hermides-medina-80992813b/
 - 	:office_worker: Working now in Minnek Digital Studio
-###I work at Minnek Digital Studio and I am very comfortable with these people, we are a great team, I love them.
+- 	
+### I work at Minnek Digital Studio and I am very comfortable with these people, we are a great team, I love them.
 
 #### Github Stats
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Phermidex&theme=gotham" width="50%" >
