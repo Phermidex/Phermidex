@@ -7,10 +7,10 @@
 #### Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=Phermidex&show_icons=true&theme=gotham&include_all_commits=true" alt="github stats" width="45%" align="right"/>
 
-### Github Streaks
+#### Github Streaks
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Phermidex&theme=dark" width="48%" >
 
-### Top Languages
+#### Top Languages
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Phermidex&layout=compact)
 
 <!---
